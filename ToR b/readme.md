@@ -1,1 +1,1 @@
-Tor B directory
+Tor B (maturity) directory
